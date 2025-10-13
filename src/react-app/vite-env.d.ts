@@ -1,3 +1,1 @@
 /// <reference types="vite/client" />
-
-AUTH_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmMWU5ODcwM2QyMjMyZDMwOGQzYjYzOGVhNGRkMGIwYiIsIm5iZiI6MTc1MTUxNzIyNi45MjksInN1YiI6IjY4NjYwODJhY2Q0YzEzYmZkMGFjNjNjYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.aB11kOdwtK2mapUkGdgD5OaLao04m2bi2wCU6vQu33g'
