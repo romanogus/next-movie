@@ -1,9 +1,13 @@
 @font-face{
   font-family: Poppins;
-  font-style: normal;
-  font-weight: 200 700;
   font-display: swap;
-  src: url("../src/assets/fonts/Poppins-Regular.ttf")
+  src: url("./assets/fonts/Poppins-Regular.ttf")
+}
+
+@font-face{
+  font-family: Inter;
+  font-display: swap;
+  src: url("./assets/fonts/Inter-VariableFont.ttf")
 }
 
 @import "tailwindcss";
@@ -13,6 +17,7 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme{
+  --font-inter: Inter, sans-serif;
   --font-poppins: Poppins, sans-serif;
 }
 
