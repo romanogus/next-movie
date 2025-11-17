@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router";
 import "./App.css";
-import RootLayout from "./layouts/RootLayout";
+import RootLayout from "./layouts/root-layout";
 import Discover from "./pages/Discover";
 import Home from "./pages/Home";
 import MovieDetails from "./pages/MovieDetails";
